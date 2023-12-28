@@ -13,13 +13,13 @@
 
 ## AtCoder
 
-- [ABC001-049](https://github.com/hecu/algorithm/tree/main/AtCoder/ABC001-049)
-- [ABC050-099](https://github.com/hecu/algorithm/tree/main/AtCoder/ABC050-099)
-- [ABC100-149](https://github.com/hecu/algorithm/tree/main/AtCoder/ABC100-149)
-- [ABC150-199](https://github.com/hecu/algorithm/tree/main/AtCoder/ABC150-199)
-- [ABC200-249](https://github.com/hecu/algorithm/tree/main/AtCoder/ABC200-249)
-- [ABC250-299](https://github.com/hecu/algorithm/tree/main/AtCoder/ABC250-299)
-- [ABC300-349](https://github.com/hecu/algorithm/tree/main/AtCoder/ABC300-349)
+- [ABC001-049](https://github.com/hecuhecu/algorithm/tree/main/AtCoder/ABC001-049)
+- [ABC050-099](https://github.com/hecuhecu/algorithm/tree/main/AtCoder/ABC050-099)
+- [ABC100-149](https://github.com/hecuhecu/algorithm/tree/main/AtCoder/ABC100-149)
+- [ABC150-199](https://github.com/hecuhecu/algorithm/tree/main/AtCoder/ABC150-199)
+- [ABC200-249](https://github.com/hecuhecu/algorithm/tree/main/AtCoder/ABC200-249)
+- [ABC250-299](https://github.com/hecuhecu/algorithm/tree/main/AtCoder/ABC250-299)
+- [ABC300-349](https://github.com/hecuhecu/algorithm/tree/main/AtCoder/ABC300-349)
 
 <a name="leetcode"></a>
 
