@@ -4,10 +4,11 @@
 <br>
 データ構造とアルゴリズムの問題を Python で解く、個人精進用プロジェクトです。
 
-| 分類                                                 | 内容            |
-| ---------------------------------------------------- | --------------- |
-| **[AtCoder](https://kenkoooo.com/atcoder/#/table/)** | AtCoder の問題  |
-| **[LeetCode](https://leetcode.com/)**                | LeetCode の問題 |
+| 分類                                                 | 内容              |
+| ---------------------------------------------------- | ----------------- |
+| **[AtCoder](https://kenkoooo.com/atcoder/#/table/)** | AtCoder の問題    |
+| **[HackerRank](https://www.hackerrank.com/)**        | HackerRank の問題 |
+| **[LeetCode](https://leetcode.com/)**                | LeetCode の問題   |
 
 <a name="atcoder"></a>
 
@@ -21,6 +22,12 @@
 - [ABC250-299](https://github.com/hecuhecu/algorithm/tree/main/AtCoder/ABC250-299)
 - [ABC300-349](https://github.com/hecuhecu/algorithm/tree/main/AtCoder/ABC300-349)
 
-<a name="leetcode"></a>
+<a name="hackerrank"></a>
+
+## HackerRank
+
+- [3 Months Preparation Kit](https://github.com/hecuhecu/algorithm/tree/main/HackerRank/3months_preparation_kit/)
+
+  <a name="leetcode"></a>
 
 ## LeetCode
